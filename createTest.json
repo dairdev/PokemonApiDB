@@ -1,0 +1,13 @@
+{ 
+	"Attack": "65",
+	"Defense": "64",
+	"Generation": "1",
+	"HP": "60",
+	"Legendary": "False",
+	"Name": "Test Pokemon",
+	"Sp. Atk": "110",
+	"Sp. Def": "85",
+	"Total": "580",
+	"Type 1": "Water",
+	"Type 2": "Ice"
+}
